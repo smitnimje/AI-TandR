@@ -1,0 +1,128 @@
+[
+    {
+        "goal_id": 1,
+        "goal_name": "Science Exam Study",
+        "steps": [
+            {
+                "task": "Review science notes",
+                "trigger_time": "2026-03-06T17:00:00",
+                "completed": true
+            },
+            {
+                "task": "Practice science problems",
+                "trigger_time": "2026-03-06T18:00:00",
+                "completed": false
+            },
+            {
+                "task": "Take a practice exam",
+                "trigger_time": "2026-03-06T19:30:00",
+                "completed": false
+            }
+        ]
+    },
+    {
+        "goal_id": 2,
+        "goal_name": "Morning Routine",
+        "steps": [
+            {
+                "task": "Wake Up",
+                "trigger_time": "2026-03-07T06:00:00",
+                "completed": false
+            },
+            {
+                "task": "Exercise",
+                "trigger_time": "2026-03-07T06:30:00",
+                "completed": false
+            },
+            {
+                "task": "Breakfast",
+                "trigger_time": "2026-03-07T07:00:00",
+                "completed": false
+            }
+        ]
+    },
+    {
+        "goal_id": 3,
+        "goal_name": "TCS NQT Exam Study",
+        "steps": [
+            {
+                "task": "Practicing MCQs",
+                "trigger_time": "2026-03-06T16:38:53",
+                "completed": true
+            },
+            {
+                "task": "Practice Mock Tests",
+                "trigger_time": "2026-03-06T18:00:00",
+                "completed": false
+            },
+            {
+                "task": "Focus on Weak Areas",
+                "trigger_time": "2026-03-06T19:00:00",
+                "completed": false
+            }
+        ]
+    },
+    {
+        "goal_id": 4,
+        "goal_name": "Workout Routine",
+        "steps": [
+            {
+                "task": "Warm-up",
+                "trigger_time": "2026-03-06T17:00:00",
+                "completed": true
+            },
+            {
+                "task": "Exercise",
+                "trigger_time": "2026-03-06T17:30:00",
+                "completed": false
+            },
+            {
+                "task": "Cool-down",
+                "trigger_time": "2026-03-06T18:00:00",
+                "completed": false
+            }
+        ]
+    },
+    {
+        "goal_id": 5,
+        "goal_name": "Generative Year Study",
+        "steps": [
+            {
+                "task": "Research Generative Year",
+                "trigger_time": "2026-03-06T17:00:00",
+                "completed": true
+            },
+            {
+                "task": "Plan Study Schedule",
+                "trigger_time": "2026-03-06T18:00:00",
+                "completed": false
+            },
+            {
+                "task": "Review Progress",
+                "trigger_time": "2026-03-06T19:00:00",
+                "completed": false
+            }
+        ]
+    },
+    {
+        "goal_id": 6,
+        "goal_name": "Background Application Study",
+        "steps": [
+            {
+                "task": "Research background application",
+                "trigger_time": "2026-03-06T17:00:18",
+                "completed": true
+            },
+            {
+                "task": "Understand application details",
+                "trigger_time": "2026-03-06T18:00:18",
+                "completed": false
+            },
+            {
+                "task": "Implement application",
+                "trigger_time": "2026-03-06T19:00:18",
+                "completed": false
+            }
+        ]
+    }
+]

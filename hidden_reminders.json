@@ -1,0 +1,10 @@
+[
+    {
+        "task": "reminder",
+        "trigger_time": "2026-03-06T18:06:00"
+    },
+    {
+        "task": "morning routine",
+        "trigger_time": "2026-03-07T06:00:00"
+    }
+]
